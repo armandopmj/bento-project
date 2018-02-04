@@ -1,0 +1,20 @@
+{
+  "name": "cats",
+  "version": "0.1.0",
+  "description": "cat facts and pictures",
+  "main": "dist/index.html",
+  "scripts": {
+    "lint": "node_modules/.bin/eslint src/",
+  },
+  "repository": {
+    "type": "git",
+  },
+  "keywords": [],
+  "author": "Bento",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "eslint": "^2.0.0",
+  }
+}
