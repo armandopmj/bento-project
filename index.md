@@ -19,7 +19,7 @@ To submit your code do the following:
 
 ### Specs:
 Some of the following specs are more ambiguous in nature.  Feel free to interpret those specs in the way that you deem is best.
-- Use one of the following frameworks to build the project: Angular (v1 || v2), React, or Vue
+- Use one of the following frameworks to build the project: Angular (v1 `||` v2), React, or Vue
 - Use cat images from http://thecatapi.com/api/images/get?format=xml&results_per_page=25
 - Use cat facts from http://cors-proxy.htmldriven.com/?url=https://catfact.ninja/facts?limit=25
 - Allow users to sort photos alphabetically by the last word in the cat fact
